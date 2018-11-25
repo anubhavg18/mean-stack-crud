@@ -6,3 +6,5 @@ Install all npm dependencies using "npm install"
 change the mongodb settings to your own database
 
 run the application by "nodemon" or "npm start"
+
+Look at this link https://cums.herokuapp.com/
