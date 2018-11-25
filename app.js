@@ -29,4 +29,4 @@ app.set('view engine', 'ejs');
 app.use('/', indexRouter);
 
 
-console.log('server is running on port 4000..');
+console.log('server is running');
