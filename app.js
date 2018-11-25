@@ -2,6 +2,7 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var app = express();
 var path = require('path');
+var port = process.env.PORT || 4000; // Set default port or assign a port in enviornment
 
 var indexRouter = require('./routes/index');
 
